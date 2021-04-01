@@ -1,6 +1,8 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/node,macos,windows,linux,vscode
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,windows,linux,vscode
+
+# !!! NO DIST FOLDER LISTED IN THIS GITIGNORE
+#dist 
 
 ### Linux ###
 *~
@@ -130,7 +132,8 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+
+
 
 # Gatsby files
 .cache/
